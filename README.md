@@ -3,7 +3,7 @@
 Nodejs Version is v12.9.0 for this application
 ### Requirements: 
 
--[x] Node.js >= 8.4.0
+ Node.js >= 8.4.0
 
 openssl for creating self signed certificates:
 
@@ -11,11 +11,11 @@ openssl for creating self signed certificates:
 
 ### Run
 
--`npm start` 
+`npm start` 
 
 or 
 
--`npm index.js`
+`npm index.js`
 
 Open: https://localhost:3000 for https/1.1 protocol
 and 
