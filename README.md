@@ -19,4 +19,4 @@ or
 
 Open: https://localhost:3000 for https/1.1 protocol
 and 
-Open: https://localhost:3000 for https/2 serverpush
+Open: https://localhost:3001 for https/2 serverpush
